@@ -66,3 +66,7 @@ http://novaiptv.vip:80/mohisleem/Amal1500/2516
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="NL:National.Geographic" tvg-logo="" group-title="KIDS CHANNELS",NL:National.Geographic
 http://novaiptv.vip:80/mohisleem/Amal1500/4490
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo HD H.265" tvg-logo="" group-title="KIDS CHANNELS",Nat Geo HD H.265
+http://novaiptv.vip:80/mohisleem/Amal1500/16165
+#EXTINF:-1 tvg-id="" tvg-name="AD Nat Geo HD" tvg-logo="" group-title="KIDS CHANNELS",AD Nat Geo HD
+http://novaiptv.vip:80/mohisleem/Amal1500/19598
