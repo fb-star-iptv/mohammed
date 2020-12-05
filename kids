@@ -64,3 +64,5 @@ http://novaiptv.vip:80/mohisleem/Amal1500/18849
 http://novaiptv.vip:80/mohisleem/Amal1500/2516
 #EXTINF:-1 tvg-id="" tvg-name="FAMLY KIDS 2" tvg-logo="" group-title="KIDS CHANNELS",National Geographic Abu Dhabi - Baraa
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="NL:National.Geographic" tvg-logo="" group-title="KIDS CHANNELS",NL:National.Geographic
+http://novaiptv.vip:80/mohisleem/Amal1500/4490
